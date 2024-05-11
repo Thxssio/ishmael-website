@@ -24,7 +24,7 @@ const Footer = () => {
           Endereço
         </h3>
         <p className="text-lg font-titleFont font-medium py-6">
-          123 Rua Exemplo, Bairro Fictício, Cidade Imaginária, 01234-567
+          Rua Floriano Peixoto, 640, sala 204, Centro, Santa Maria-RS.
         </p>
       </div>
     </div>
