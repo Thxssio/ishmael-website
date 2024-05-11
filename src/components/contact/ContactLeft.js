@@ -19,10 +19,10 @@ const ContactLeft = () => {
         Mestre em Direitos Sociais e Políticas Públicas pelo Programa de Pós-Graduação da Universidade de Santa Cruz do Sul (UNISC); Pós Graduado em Ciências Criminais pela Universidade Luterana do Brasil (ULBRA); Graduado em DIREITO pela Faculdade de Direito de Santa Maria - FADISMA. Advogado nas áreas Cíveis e Penais com ênfase em audiências e sustentações orais.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+55 55 XXXXXXXX</span>
+          Phone: <span className="text-lightText">+55 55 32223708</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">Ishmael@gmail.com</span>
+          Email: <span className="text-lightText">ishmaelvieira@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
